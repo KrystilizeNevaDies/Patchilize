@@ -1,0 +1,1 @@
+﻿Octodiff.Program.Main(args);

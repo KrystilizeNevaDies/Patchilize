@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# 
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreprocessVisibility", "PreprocessVisibility\PreprocessVisibility.csproj", "{4BDE8390-2F5D-4E2F-943D-DD9F3EAFEAB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OctodiffCli", "OctodiffCli\OctodiffCli.csproj", "{B56032C0-1396-4FBF-A539-E72F5127AC42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BDE8390-2F5D-4E2F-943D-DD9F3EAFEAB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BDE8390-2F5D-4E2F-943D-DD9F3EAFEAB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BDE8390-2F5D-4E2F-943D-DD9F3EAFEAB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BDE8390-2F5D-4E2F-943D-DD9F3EAFEAB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B56032C0-1396-4FBF-A539-E72F5127AC42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B56032C0-1396-4FBF-A539-E72F5127AC42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B56032C0-1396-4FBF-A539-E72F5127AC42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B56032C0-1396-4FBF-A539-E72F5127AC42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal

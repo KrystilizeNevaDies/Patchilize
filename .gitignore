@@ -1,0 +1,6 @@
+*/bin/*
+*/obj/*
+.idea
+dependencies
+head.patch
+core.patch
